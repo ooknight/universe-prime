@@ -1,0 +1,17 @@
+### ide
+.vscode
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+### maven
+target/
+
+### gradle
+.gradle
+build
+
+### mac
+.DS_Store
