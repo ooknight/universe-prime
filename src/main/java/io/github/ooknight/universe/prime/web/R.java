@@ -1,13 +1,11 @@
 package io.github.ooknight.universe.prime.web;
 
-import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.Data;
 
 import java.io.Serializable;
 import java.util.List;
 
 @Data
-@JsonInclude(JsonInclude.Include.NON_NULL)
 public class R<T> implements Serializable {
 
     private final int code;

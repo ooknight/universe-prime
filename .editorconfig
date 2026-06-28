@@ -39,7 +39,7 @@ ij_java_enum_field_annotation_wrap = unset
 ij_java_method_annotation_wrap = unset
 ij_java_parameter_annotation_wrap = unset
 ij_java_variable_annotation_wrap = unset
-ij_java_imports_layout = io.**, |, *, |, jakarta.**, javax.**, java.**, |, $*
+ij_java_imports_layout = io.ooknight.**, |, *, |, jakarta.**, javax.**, java.**, |, $*
 
 [*.md]
 trim_trailing_whitespace = false
